@@ -25,12 +25,14 @@
 }
 #img-div{
     width: 100%;
+    text-align: center;
 }
+
 #image{
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    border:20px solid grey;
+   display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
 }
 #img-caption {
     font-size: 18px;
