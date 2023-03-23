@@ -18,7 +18,7 @@
 }
 .main{
     width:100%;
-    background:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(1.jpg);
+    background:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
     background-size:cover;
     background-position: center;
     height:300vh;
@@ -32,3 +32,30 @@
     align-items:center;
     border:20px solid grey;
 }
+#img-caption {
+    font-size: 18px;
+    color: #0c0c0c;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  #headline {
+    font-size: 28px;
+    color: #0d0f14;
+    text-align: center;
+    margin-top: 10px;
+  }
+ 
+
+  ul {
+    
+    font-size: 18px;
+    color: #09090a;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  
+  
